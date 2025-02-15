@@ -33,7 +33,7 @@ justify-content: center;
 background-color: var(--pLightColor3);
 /* font-family: system-ui, calibri, serif; */
 background-repeat: repeat-x;
-background-image: url("/img/bg-01.svg");
+background-image: url("https://img.donat.id/bg-01.svg");
 animation: movemente 50s linear infinite;
 }
 
@@ -47,7 +47,7 @@ background-size: cover;
 background-position: center top;
 background-attachment: fixed;
 /* -webkit-transform: translateZ(0); /* necessary for iOS! */
-background-image: url('/img/masjid.svg');
+background-image: url('https://img.donat.id/masjid.svg');
 /* background-image: url('svg4.svg'); */
 /* background-image: url('http://localhost/svg.php?svg=human'); */
 }
@@ -119,7 +119,7 @@ width: 100%;
 #parallax-container #sky {
 
   /* position:relative;
-  background-image: url('../../img/bg-01.svg');
+  background-image: url('https://img.donat.id/bg-01.svg');
   animation: movement 50s linear infinite; */
 
   /* display: flex; */
@@ -129,7 +129,7 @@ width: 100%;
   justify-content: center;
   background-color: var(--pLightColor3);
   background-repeat: repeat-x;
-  background-image: url("../../img/bg-01.svg");
+  background-image: url("https://img.donat.id/bg-01.svg");
   animation: movemente 50s linear infinite;
 
 }
